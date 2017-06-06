@@ -2,4 +2,4 @@
 This is a javascript bmi calculator that can be easily included on any website.
 
 ## Demo
-[bmi-kalkulator.net](http://bmi-kalkulator.net)
+<a href="http://bmi-kalkulator.net" target="_blank" title="Demo of the BMI Kalkulator on bmi-kalkulator.net">bmi-kalkulator.net</a>
